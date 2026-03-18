@@ -1,0 +1,3 @@
+3) Qual dos datasets não é apropriado para regressão linear? Justifique sua resposta.
+
+4)    Ao analisar o gráfico de dispersão e o resultado da regressão linear para o dataset 4, observa-se um problema. O que deveria ser feito antes de ajustar o modelo de regressão? Justifique sua resposta.
